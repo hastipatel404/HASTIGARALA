@@ -14,11 +14,9 @@
 - JavaScript interactivity
 
 📫 How to reach me:
-- 📧 Email: your-email@example.com
-- 🌐 Portfolio (if you have one)
+- 📧 Email: hastiarala2524@gmail.com
 - 🐙 GitHub: [@HastiGarala](https://github.com/HastiGarala)
 
 ---
 
 ⭐ Fun Fact: I love debugging — it's like solving puzzles!
-
