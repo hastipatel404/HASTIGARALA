@@ -5,7 +5,6 @@
 🎓 Currently learning Git, GitHub, and full-stack web technologies.
 
 🚀 Projects I've built:
-- 📚 E-Library Management System
 - 🍽️ Food Catering Website
 - More coming soon...
 
