@@ -15,7 +15,7 @@
 
 📫 How to reach me:
 - 📧 Email: hastiarala2524@gmail.com
-- 🐙 GitHub: [@HastiGarala](https://github.com/HastiGarala)
+- 🐙 GitHub: [@HastiGarala](https://github.com/hastipatel404)
 
 ---
 
