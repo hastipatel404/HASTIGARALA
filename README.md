@@ -17,7 +17,7 @@
 📫 How to reach me:
 - 📧 Email: hastiarala2524@gmail.com
 - 🐙 GitHub: [@HastiGarala](https://github.com/hastipatel404)
-- 📸 [Instagram](https://www.instagram.com/hasti_patel404?igsh=MWphMzJvMzF6bXZudg==)
+- 📸 Instagram: [Hasti Garala](https://www.instagram.com/hasti_patel404?igsh=MWphMzJvMzF6bXZudg==)
 
 ---
 
