@@ -6,6 +6,7 @@
 
 🚀 Projects I've built:
 - 🍽️ Food Catering Website
+- 🛒 Localkart Website + App
 - More coming soon...
 
 🌱 Currently exploring:
